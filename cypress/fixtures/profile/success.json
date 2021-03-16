@@ -1,0 +1,22 @@
+{
+  "data": {
+    "data": {
+      "id": 11794,
+      "name": "Renal",
+      "email": "otoshop@mailinator.com",
+      "phone": "+6281222333444",
+      "sex": "male",
+      "birthday": "1995-01-01T00:00:00.000Z",
+      "occupation": null,
+      "city": "Jakarta Pusat",
+      "address": null,
+      "confirmedAt": "2020-01-07T06:38:31.478Z",
+      "imageUrl": null,
+      "Language": "id",
+      "CountryCode": "ID",
+      "updatedAt": "2020-03-08T13:46:33.794Z"
+    },
+    "cache": true,
+    "cacheUpdated": 1583665800057
+  }
+}

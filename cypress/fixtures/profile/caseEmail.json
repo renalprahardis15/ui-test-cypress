@@ -1,0 +1,23 @@
+{
+  "data": {
+    "data": {
+      "id": 14114,
+      "name": null,
+      "email": null,
+      "phone": "+6281335673563",
+      "sex": null,
+      "birthday": null,
+      "occupation": null,
+      "city": null,
+      "address": null,
+      "confirmedAt": "2021-02-03T04:02:34.641Z",
+      "imageUrl": null,
+      "Language": "id",
+      "CountryCode": "ID",
+      "createdAt": "2021-02-03T04:02:30.952Z",
+      "updatedAt": "2021-02-03T04:02:34.642Z"
+    },
+    "cache": true,
+    "cacheUpdated": 1612181137226
+  }
+}

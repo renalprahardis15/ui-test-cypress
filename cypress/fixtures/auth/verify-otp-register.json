@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "user": {
+    "name": null,
+    "email": null,
+    "phone": "+6281324543643",
+    "sex": null,
+    "birthday": null,
+    "occupation": null,
+    "city": null,
+    "address": null,
+    "image": null,
+    "language": "id",
+    "country": "ID",
+    "merchantId": "6967"
+  }
+}

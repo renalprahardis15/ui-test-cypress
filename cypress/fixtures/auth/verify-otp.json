@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "user": {
+    "name": "Renal",
+    "email": "otoshop@mailinator.com",
+    "phone": "+6281222333444",
+    "sex": "male",
+    "birthday": "1995-01-01T00:00:00.000Z",
+    "occupation": null,
+    "city": "Jakarta Pusat",
+    "address": null,
+    "image": null,
+    "language": "id",
+    "country": "ID",
+    "merchantId": "6967"
+  }
+}

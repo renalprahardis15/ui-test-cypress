@@ -1,0 +1,8 @@
+{
+  "success": true,
+  "otp": {
+    "phone": "+6281222333444",
+    "countryCode": "ID",
+    "expireIn": 45
+  }
+}
